@@ -81,6 +81,7 @@
 - Set up repeatable CI/CD workflows by containerizing applications with Docker and deploying to AWS ECS.
 - Delivered Next.js and TypeScript components across 3 projects following code review best practices.
 
+
 ## 🏆 Certifications
 
 - **Data Structures & Algorithms** — PW Skills (2023)
@@ -100,8 +101,17 @@ Relevant Coursework: Data Structures & Algorithms, DBMS, Computer Networks, Oper
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Adarshsinghsikarwar&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adarshsinghsikarwar&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Adarshsinghsikarwar&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshsinghsikarwar&layout=compact&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adarshsinghsikarwar/Adarshsinghsikarwar/output/github-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adarshsinghsikarwar/Adarshsinghsikarwar/output/github-snake.svg">
+</picture>
 
 ---
 
